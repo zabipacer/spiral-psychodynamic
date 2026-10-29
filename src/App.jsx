@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import Layout from "./components/Layout";
-import { SITE, focusRing } from "./components/siteConfig";
+import { SITE, focusRing } from "./components/SiteConfig";
 
 /* If you use React Router / Next.js, swap <a href> for <Link to>. */
 
@@ -582,7 +582,7 @@ const link = `font-semibold text-[#2F5D62] underline underline-offset-4 rounded 
    PAGE
    ---------------------------------------------------------- */
 
-export default function Home() {
+export default function App() {
   useEffect(() => {
     document.title = TITLE;
 
