@@ -1,4 +1,4 @@
-import { SITE, focusRing } from "./siteConfig";
+import { SITE, focusRing } from "./SiteConfig";
 
 /* Visible on phones only (hidden from md and up). */
 

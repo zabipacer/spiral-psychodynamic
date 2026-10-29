@@ -1,6 +1,6 @@
 import Header from "./Header";
 import Footer from "./Footer";
-import MobileActionBar from "./MobileActionBar";
+import MobileActionBar from "./Mobileactionbar";
 
 /* Wrap every page: <Layout currentPath="/about">...page content...</Layout> */
 

@@ -1,4 +1,4 @@
-import { SITE, focusRing, SpiralLogo } from "./siteConfig";
+import { SITE, focusRing, SpiralLogo } from "./SiteConfig";
 
 export default function Footer() {
   const linkClass = `rounded text-[#CFE0DE] underline-offset-4 hover:text-white hover:underline ${focusRing} focus-visible:ring-offset-[#1F2A33] focus-visible:ring-white`;
